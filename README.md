@@ -1,34 +1,24 @@
 # Cody Landers Portfolio
 
+Portfolio projects focused on operations analytics, business intelligence, and interactive web applications.
+
 ## Telecom Operations Performance Dashboard
 
-Power BI portfolio project analyzing anonymized telecom operations data across revenue, task efficiency, engineer productivity, call-center performance, and staffing coverage.
+Power BI dashboard built from anonymized and materially modified telecom operations data. The project explores revenue performance, task efficiency, engineer productivity, call-center operations, and staffing coverage.
 
-> **Data Disclaimer:** This dashboard uses anonymized and materially modified historical work data. Names, financial figures, IDs, dates, and identifying details were changed or synthesized. It does not represent any actual company, customer, employee, or business performance.
+**Tools:** Power BI · Power Query · DAX · Excel · Data anonymization
 
-### Live Dashboard
 [Open the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDE0ZjRkMzEtY2IwNC00ZTdlLTkyMmMtNDg0NTQxZTA1YWRjIiwidCI6ImY4MjZjZGFlLTM5YzMtNDEyZi04NDJjLWM4MDdiMzBhMWY5NiIsImMiOjZ9)
 
-### Business Questions Addressed
-- Which task types generate the most revenue and revenue per minute?
-- How concentrated is revenue across task categories?
-- How does engineer task volume compare with team benchmarks?
-- How do staffing levels align with call-center abandonment patterns?
+> **Data Disclaimer:** This dashboard uses anonymized and materially modified historical work data. Names, financial figures, IDs, dates, and other identifying details were changed or synthesized. It does not represent an actual company, customer, employee, or business performance.
 
-### Tools Used
-- Power BI
-- Power Query
-- DAX
-- Excel
-- Data anonymization and transformation
+---
 
-### Dashboard Pages
+## D&D Character Builder
 
-#### Executive Summary
-Revenue, margin, task volume, revenue efficiency, and task-mix concentration.
+Interactive web application that guides users through race, class, background, and ability-score selection to create a Dungeons & Dragons character.
 
-#### Engineer Performance
-Engineer workload, task volume, network maintenance activity, and contact-method mix.
+**Tools:** HTML · CSS · JavaScript · GitHub  
+**Status:** In progress
 
-#### Call Center Performance
-Call volume, abandon rate, answer time, staffing coverage, and hourly service-level trends.
+[View Source Code](https://github.com/CodyLanders/dnd-character-builder) · Live demo coming soon
