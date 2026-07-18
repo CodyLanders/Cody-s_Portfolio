@@ -16,9 +16,9 @@ Power BI dashboard built from anonymized and materially modified telecom operati
 
 ## D&D Character Builder
 
-Interactive web application that guides users through race, class, background, and ability-score selection to create a Dungeons & Dragons character.
+Completed mobile-friendly web application for creating level 1 Dungeons & Dragons 5e characters using the 2014 Player’s Handbook rules. The builder includes guided and randomized character-creation workflows, all PHB classes, races, subraces, and backgrounds, multiple ability-score methods, spell and equipment selection, browser autosave, a completed character sheet, and Print / Save as PDF support.
 
-**Tools:** HTML · CSS · JavaScript · GitHub  
-**Status:** In progress
+**Tools:** HTML · CSS · JavaScript · GitHub Pages
+**Status:** Complete — v1.0.0
 
-[View Source Code](https://github.com/CodyLanders/dnd-character-builder) · Live demo coming soon
+[Open the D&D Character Builder](https://codylanders.github.io/dnd-character-builder/) · [View Source Code](https://github.com/CodyLanders/dnd-character-builder)
