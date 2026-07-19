@@ -22,3 +22,14 @@ Completed mobile-friendly web application for creating level 1 Dungeons & Dragon
 **Status:** Complete — v1.0.0
 
 [Open the D&D Character Builder](https://codylanders.github.io/dnd-character-builder/) · [View Source Code](https://github.com/CodyLanders/dnd-character-builder)
+
+---
+
+## Focus — Wealth Management Analytics — Work In Progress
+
+Early-stage Tableau portfolio project focused on how wealth management leaders can use advisor and client data to identify performance concerns and determine where attention may be needed.
+
+The project is currently in development. Initial work includes defining the business use case, designing a synthetic dataset, selecting relevant advisor and client KPIs, and preparing the data structure for the first Tableau Public dashboard. Planned analysis includes client retention, new-client acquisition, client demographics, advisor capacity, and performance alerts.
+
+**Tools:** Tableau Public · Excel/CSV · Synthetic data generation
+**Status:** In Development — Data and dashboard foundation
